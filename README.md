@@ -1,3 +1,3 @@
-# FINM33150
+# FINM33150 (Winter 2023)
 
-Quantitative Trading Strategies
+Quantitative Trading Strategies - Homework
